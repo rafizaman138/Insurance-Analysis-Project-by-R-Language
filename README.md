@@ -1,2 +1,2 @@
-# Insurance-Analysis-Project-by-R-Language
+# Full with html use,Insurance-Analysis-Project-by-R-Language
 The Insurance Analysis Project using R Language focuses on analyzing insurance data to find patterns in claims, premiums, and customer risk. It uses R tools for data cleaning, visualization, and statistical analysis. The project helps in understanding risk factors and supports better decision-making for insurance pricing and management.
